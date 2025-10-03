@@ -24,4 +24,34 @@ Passionate about performance optimization, clean code, and solving real-world pr
 
 ---
 
+## 📊 GitHub Stats
+
+![DaniyalRaza786's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniyalRaza786&show_icons=true&theme=radical)
+![DaniyalRaza786's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalRaza786&layout=compact&theme=radical)
+
+---
+
+## 🏅 Certifications
+
+- **AWS Certified Solutions Architect – Associate**
+- **Microsoft Certified: Azure Developer Associate**
+- **Certified Laravel Developer**
+- *(Add more as needed)*
+
+---
+
+## 🤝 Contributor
+
+- Open source enthusiast & active contributor to various projects.
+- Always open to collaborating on exciting ideas and projects!
+
+---
+
+## 🗓️ GitHub Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DaniyalRaza786&theme=radical)](https://git.io/streak-stats)
+[![DaniyalRaza786's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaniyalRaza786&theme=radical)](https://github.com/DaniyalRaza786)
+
+---
+
 📫 Reach me at **daniyalraza1212@gmail.com** | 🌐 [LinkedIn](https://linkedin.com/in/daniyal-raza)  
